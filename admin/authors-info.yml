@@ -1,6 +1,6 @@
 # This file is used to configure the "ghizmo assemble-authors" command.
 
-header: |
+header: |false
   This work is the result of the effort of many people around the world.
   Contributors are listed in alphabetical order by GitHub login.
 
